@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    margin:0px;
+    font-size: 25px;
+    width:100%;
+}
+
+.NOTE {
+    font-size: 18px;
+    color: black;
+}
+
+.du_speed {
+    float:left;
+}
+
+.du_volume {
+    float: right;
+}
+
+img {
+  border-radius: 100px;
+  width : 200px;
+}
+
+#speed,#volume {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button,.stop_button
+{
+    font-size: 25px;
+    width: 130px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+
+}
